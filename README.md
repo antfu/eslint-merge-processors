@@ -71,7 +71,6 @@ export default [
 
 [MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/antfu)
 
-
 <!-- Badges -->
 
 [npm-version-src]: https://img.shields.io/npm/v/eslint-merge-processors?style=flat&colorA=080f12&colorB=1fa669
