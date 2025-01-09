@@ -1,7 +1,7 @@
 {
   "name": "eslint-merge-processors",
   "type": "module",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@9.15.3",
   "description": "Merge multiple ESLint processors to behave like one",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
